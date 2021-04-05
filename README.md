@@ -1,4 +1,4 @@
 # Algorithms
-작성했던 코드들
+작성했던 알고리즘들
 <br>
-the codes that were filled out
+the Algorithms that were filled out
